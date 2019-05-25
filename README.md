@@ -1,2 +1,0 @@
-# JacobRivera
-Simple Repository
